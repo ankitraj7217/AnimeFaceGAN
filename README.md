@@ -1,2 +1,2 @@
 # AnimeFaceGAN
-AnimeFaceGAN is a software which generates animated character faces, which is never drawn before using Generative Adverserial Networks.
+AnimeFaceGAN is a software which generates animated character faces using Generative Adverserial Networks, which is never drawn before.
